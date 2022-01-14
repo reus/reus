@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @reus
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Clojure/ClojureScript and Python.
-- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: ruud@reus.dev
 
 <!---
